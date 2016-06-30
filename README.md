@@ -1,3 +1,3 @@
 # hello-world
 Just checking
-This is a commit and it will have changes different from master
+Adding more changes and removing previous ones.
